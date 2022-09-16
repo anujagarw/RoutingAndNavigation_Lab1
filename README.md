@@ -13,3 +13,8 @@ The user module will have three pages – dashboard and profile. Create a separa
 After providing login details (username and password) user will navigate to the user dashboard
 
 Use attribute routing to define the routes for Admin and User modules.
+
+Scenario:
+1. To login user module, in user name text box pass the value 'user' and it will navigates to User Dashboard
+
+2. To login Admin module, in user name text box pass the value 'admin' and it will navigates to Admin Dashboard
